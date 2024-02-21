@@ -1,0 +1,5 @@
+python-multidict source: file-without-copyright-information
+python-multidict source: no-debian-changes
+python-multidict source: source-contains-prebuilt-windows-binary
+python-multidict source: source-is-missing
+python-multidict source: source-package-encodes-python-version
