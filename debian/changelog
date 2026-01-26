@@ -1,0 +1,5 @@
+python-multidict (100:6.7.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/aio-libs/multidict/releases/tag/v6.7.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Tue, 07 Oct 2025 13:08:04 +0800
