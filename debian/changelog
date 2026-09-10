@@ -1,0 +1,5 @@
+python-multidict (100:6.8.0-1) UNRELEASED; urgency=medium
+
+  * https://github.com/aio-libs/multidict/releases/tag/v6.8.0
+
+ -- Wong Hoi Sing Edison <hswong3i@pantarei-design.com>  Thu, 10 Sep 2026 16:06:40 +0800
