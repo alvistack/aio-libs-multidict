@@ -1,0 +1,4 @@
+python3-multidict: copyright-without-copyright-notice
+python3-multidict: initial-upload-closes-no-bugs
+python3-multidict: no-manual-page
+python3-multidict: zero-byte-file-in-doc-directory
